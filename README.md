@@ -1,4 +1,4 @@
-# classifying-the-Iris-dataset-using-CNNs
+# Classifying-the-Iris-dataset-using-CNNs
 
 
 The Iris dataset is primarily a tabular dataset used for classification tasks, particularly in machine learning contexts.However, if we want to approach it using Convolutional Neural Networks (CNNs), we would need to first create images based on the data, as CNNs are typically designed for image data.
