@@ -26,3 +26,14 @@ Split the Data: Divide the dataset into training, validation, and test sets.
 ## Step 4: Build the CNN Model
 
 A typical CNN architecture for image classification might include several convolutional layers, pooling layers, and dense layers at the end.
+
+## Step 5: Compile the Model
+Use an appropriate optimizer and loss function. For multi-class classification, you can use categorical crossentropy:
+
+## Step 6: Train the Model
+Train the model using the training set:
+
+## Step 7: Evaluate the Model
+After training, evaluate the model on the test set to check its performance:
+## Step 8: Visualize Results
+Plot the training history to analyze loss and accuracy over epochs.
